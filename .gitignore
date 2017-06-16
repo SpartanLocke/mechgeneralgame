@@ -1,0 +1,8 @@
+Library/*
+Temp/*
+iosbuild/*
+Builds/*
+*.sln
+*.csproj
+.vs/*
+obj/*
